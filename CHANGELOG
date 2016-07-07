@@ -1,6 +1,11 @@
 CHANGELOG
 =========
 
+1.2.1
+------
+
+Fixes winnfsd/vagrant-winnfsd#93 - Allow config options to be set in base box Vagrantfile.
+
 1.2.0
 ------
 
